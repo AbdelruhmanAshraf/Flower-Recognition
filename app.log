@@ -1,0 +1,173 @@
+2024-12-31 14:27:30,441 - __main__ - INFO - Loading model from model.h5...
+2024-12-31 14:27:32,121 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-12-31 14:27:32,134 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-12-31 14:27:32,194 - __main__ - INFO - Model loaded successfully
+2024-12-31 14:27:32,194 - __main__ - INFO - Model input shape: (None, 224, 224, 3)
+2024-12-31 14:27:32,194 - __main__ - INFO - Model output shape: (None, 5)
+2024-12-31 14:27:32,200 - __main__ - INFO - Model loaded successfully
+2024-12-31 14:27:32,210 - __main__ - INFO - Model input shape: (None, 224, 224, 3)
+2024-12-31 14:27:32,210 - __main__ - INFO - Model output shape: (None, 5)
+2024-12-31 14:27:32,285 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-31 14:27:32,285 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-31 14:27:32,286 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 14:27:32,286 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 14:27:32,288 - werkzeug - INFO -  * Restarting with stat
+2024-12-31 14:27:32,288 - werkzeug - INFO -  * Restarting with stat
+2024-12-31 14:27:37,145 - __main__ - INFO - Loading model from model.h5...
+2024-12-31 14:27:37,145 - __main__ - INFO - Loading model from model.h5...
+2024-12-31 14:27:38,914 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-12-31 14:27:38,923 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-12-31 14:27:38,965 - __main__ - INFO - Model loaded successfully
+2024-12-31 14:27:38,965 - __main__ - INFO - Model input shape: (None, 224, 224, 3)
+2024-12-31 14:27:38,965 - __main__ - INFO - Model output shape: (None, 5)
+2024-12-31 14:27:38,982 - werkzeug - WARNING -  * Debugger is active!
+2024-12-31 14:27:38,985 - werkzeug - INFO -  * Debugger PIN: 641-904-754
+2024-12-31 14:27:38,985 - __main__ - INFO - Model loaded successfully
+2024-12-31 14:27:38,985 - __main__ - INFO - Model input shape: (None, 224, 224, 3)
+2024-12-31 14:27:38,985 - __main__ - INFO - Model output shape: (None, 5)
+2024-12-31 14:27:38,992 - werkzeug - WARNING -  * Debugger is active!
+2024-12-31 14:27:38,994 - werkzeug - INFO -  * Debugger PIN: 641-904-754
+2024-12-31 14:27:40,528 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 14:27:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-12-31 14:27:40,654 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 14:27:40] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-12-31 14:27:40,654 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 14:27:40] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-12-31 14:27:40,704 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 14:27:40] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=z9jruhRID5LCds5P909S HTTP/1.1" 200 -
+2024-12-31 14:27:40,728 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 14:27:40] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-12-31 14:39:35,588 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 14:39:35] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-12-31 14:39:35,691 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 14:39:35] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-31 14:39:35,691 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 14:39:35] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-31 14:39:35,742 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 14:39:35] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=ASHzWwshmYCxgtsP14jA HTTP/1.1" 200 -
+2024-12-31 14:40:28,295 - __main__ - INFO - Loading model from model.h5...
+2024-12-31 14:40:29,888 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-12-31 14:40:29,945 - __main__ - INFO - Model loaded successfully
+2024-12-31 14:40:29,945 - __main__ - INFO - Model input shape: (None, 224, 224, 3)
+2024-12-31 14:40:29,945 - __main__ - INFO - Model output shape: (None, 5)
+2024-12-31 14:40:29,955 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-31 14:40:29,964 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 14:40:29,965 - werkzeug - INFO -  * Restarting with stat
+2024-12-31 14:40:34,204 - __main__ - INFO - Loading model from model.h5...
+2024-12-31 14:40:35,753 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-12-31 14:40:35,805 - __main__ - INFO - Model loaded successfully
+2024-12-31 14:40:35,805 - __main__ - INFO - Model input shape: (None, 224, 224, 3)
+2024-12-31 14:40:35,805 - __main__ - INFO - Model output shape: (None, 5)
+2024-12-31 14:40:35,817 - werkzeug - WARNING -  * Debugger is active!
+2024-12-31 14:40:35,823 - werkzeug - INFO -  * Debugger PIN: 641-904-754
+2024-12-31 14:40:36,622 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 14:40:36] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-12-31 14:40:36,728 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 14:40:36] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-31 14:40:36,728 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 14:40:36] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-31 14:40:36,777 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 14:40:36] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=lGE4UcCrAvzaiiz3L6lz HTTP/1.1" 200 -
+2024-12-31 14:56:50,625 - __main__ - INFO - Loading model from model.h5...
+2024-12-31 14:56:52,153 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-12-31 14:56:52,209 - __main__ - INFO - Model loaded successfully
+2024-12-31 14:56:52,209 - __main__ - INFO - Model input shape: (None, 224, 224, 3)
+2024-12-31 14:56:52,209 - __main__ - INFO - Model output shape: (None, 5)
+2024-12-31 14:56:52,228 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-31 14:56:52,229 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 14:56:52,231 - werkzeug - INFO -  * Restarting with stat
+2024-12-31 14:56:56,654 - __main__ - INFO - Loading model from model.h5...
+2024-12-31 14:56:58,342 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-12-31 14:56:58,405 - __main__ - INFO - Model loaded successfully
+2024-12-31 14:56:58,405 - __main__ - INFO - Model input shape: (None, 224, 224, 3)
+2024-12-31 14:56:58,405 - __main__ - INFO - Model output shape: (None, 5)
+2024-12-31 14:56:58,413 - werkzeug - WARNING -  * Debugger is active!
+2024-12-31 14:56:58,415 - werkzeug - INFO -  * Debugger PIN: 641-904-754
+2024-12-31 14:56:58,436 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 14:56:58] "GET / HTTP/1.1" 200 -
+2024-12-31 14:56:59,003 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 14:56:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-31 14:57:54,127 - __main__ - INFO - Received POST request
+2024-12-31 14:57:54,131 - __main__ - INFO - Saving file to static/uploads\272481307_1eb47ba3e0_n.jpg
+2024-12-31 14:57:54,132 - __main__ - INFO - Processing image...
+2024-12-31 14:57:54,146 - __main__ - INFO - Original image shape: (240, 320, 3)
+2024-12-31 14:57:54,149 - __main__ - INFO - Final input shape: (1, 224, 224, 3)
+2024-12-31 14:57:54,149 - __main__ - INFO - Making prediction...
+2024-12-31 14:57:57,068 - __main__ - INFO - Raw predictions shape: (1, 5)
+2024-12-31 14:57:57,069 - __main__ - INFO - Raw prediction values: [[5.6149570e-06 1.6730158e-06 9.9957162e-01 1.3351619e-06 4.1981231e-04]]
+2024-12-31 14:57:57,070 - __main__ - INFO - Class daisy: -0.0000
+2024-12-31 14:57:57,070 - __main__ - INFO - Class dandelion: -0.0001
+2024-12-31 14:57:57,070 - __main__ - INFO - Class roses: 0.9997
+2024-12-31 14:57:57,070 - __main__ - INFO - Class sunflowers: 0.0001
+2024-12-31 14:57:57,070 - __main__ - INFO - Class tulips: 0.0003
+2024-12-31 14:57:57,071 - __main__ - INFO - Final top predictions: [{'class': 'roses', 'confidence': 0.99974060896994}, {'class': 'tulips', 'confidence': 0.0002616181963598281}, {'class': 'sunflowers', 'confidence': 0.000109241356890958}]
+2024-12-31 14:57:57,071 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 14:57:57] "POST / HTTP/1.1" 200 -
+2024-12-31 19:59:30,196 - __main__ - INFO - Received POST request
+2024-12-31 19:59:30,247 - __main__ - INFO - Saving file to static/uploads\download.jpg
+2024-12-31 19:59:30,247 - __main__ - INFO - Processing image...
+2024-12-31 19:59:30,280 - __main__ - INFO - Original image shape: (225, 225, 3)
+2024-12-31 19:59:30,302 - __main__ - INFO - Final input shape: (1, 224, 224, 3)
+2024-12-31 19:59:30,302 - __main__ - INFO - Making prediction...
+2024-12-31 19:59:31,328 - __main__ - INFO - Raw predictions shape: (1, 5)
+2024-12-31 19:59:31,328 - __main__ - INFO - Raw prediction values: [[1.3314737e-07 5.3859719e-07 9.9999309e-01 3.2256307e-07 6.0007133e-06]]
+2024-12-31 19:59:31,344 - __main__ - INFO - Class daisy: -0.0000
+2024-12-31 19:59:31,344 - __main__ - INFO - Class dandelion: -0.0001
+2024-12-31 19:59:31,344 - __main__ - INFO - Class roses: 1.0002
+2024-12-31 19:59:31,345 - __main__ - INFO - Class sunflowers: 0.0000
+2024-12-31 19:59:31,345 - __main__ - INFO - Class tulips: -0.0000
+2024-12-31 19:59:31,346 - __main__ - INFO - Final top predictions: [{'class': 'roses', 'confidence': 1.0001518152778621}, {'class': 'sunflowers', 'confidence': 1.8326687404042146e-05}, {'class': 'tulips', 'confidence': -3.77380661251783e-06}]
+2024-12-31 19:59:31,348 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 19:59:31] "POST / HTTP/1.1" 200 -
+2024-12-31 19:59:44,966 - __main__ - INFO - Received POST request
+2024-12-31 19:59:44,968 - __main__ - INFO - Saving file to static/uploads\download.jpg
+2024-12-31 19:59:44,969 - __main__ - INFO - Processing image...
+2024-12-31 19:59:44,976 - __main__ - INFO - Original image shape: (297, 170, 3)
+2024-12-31 19:59:44,979 - __main__ - INFO - Final input shape: (1, 224, 224, 3)
+2024-12-31 19:59:44,979 - __main__ - INFO - Making prediction...
+2024-12-31 19:59:45,163 - __main__ - INFO - Raw predictions shape: (1, 5)
+2024-12-31 19:59:45,163 - __main__ - INFO - Raw prediction values: [[1.8559622e-04 1.3921421e-03 9.9560356e-01 1.1714211e-05 2.8070104e-03]]
+2024-12-31 19:59:45,163 - __main__ - INFO - Class daisy: 0.0002
+2024-12-31 19:59:45,163 - __main__ - INFO - Class dandelion: 0.0013
+2024-12-31 19:59:45,163 - __main__ - INFO - Class roses: 0.9956
+2024-12-31 19:59:45,163 - __main__ - INFO - Class sunflowers: -0.0000
+2024-12-31 19:59:45,163 - __main__ - INFO - Class tulips: 0.0029
+2024-12-31 19:59:45,163 - __main__ - INFO - Final top predictions: [{'class': 'roses', 'confidence': 0.9955918713450757}, {'class': 'tulips', 'confidence': 0.002903272540747502}, {'class': 'dandelion', 'confidence': 0.0012811921545253042}]
+2024-12-31 19:59:45,163 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 19:59:45] "POST / HTTP/1.1" 200 -
+2025-03-19 01:27:07,228 - __main__ - INFO - Loading model from model.h5...
+2025-03-19 01:27:10,174 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-03-19 01:27:10,277 - __main__ - INFO - Model loaded successfully
+2025-03-19 01:27:10,277 - __main__ - INFO - Model input shape: (None, 224, 224, 3)
+2025-03-19 01:27:10,279 - __main__ - INFO - Model output shape: (None, 5)
+2025-03-19 01:27:10,306 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-19 01:27:10,306 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-19 01:27:10,310 - werkzeug - INFO -  * Restarting with stat
+2025-03-19 01:27:19,775 - __main__ - INFO - Loading model from model.h5...
+2025-03-19 01:27:22,133 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-03-19 01:27:22,208 - __main__ - INFO - Model loaded successfully
+2025-03-19 01:27:22,209 - __main__ - INFO - Model input shape: (None, 224, 224, 3)
+2025-03-19 01:27:22,210 - __main__ - INFO - Model output shape: (None, 5)
+2025-03-19 01:27:22,220 - werkzeug - WARNING -  * Debugger is active!
+2025-03-19 01:27:22,226 - werkzeug - INFO -  * Debugger PIN: 641-904-754
+2025-03-19 01:27:42,747 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2025 01:27:42] "GET / HTTP/1.1" 200 -
+2025-03-19 01:27:43,626 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2025 01:27:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-18 22:55:32,317 - __main__ - INFO - Loading model from model.h5...
+2025-04-18 22:55:34,380 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-18 22:55:34,484 - __main__ - INFO - Model loaded successfully
+2025-04-18 22:55:34,484 - __main__ - INFO - Model input shape: (None, 224, 224, 3)
+2025-04-18 22:55:34,484 - __main__ - INFO - Model output shape: (None, 5)
+2025-04-18 22:55:34,501 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-18 22:55:34,501 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-18 22:55:34,503 - werkzeug - INFO -  * Restarting with stat
+2025-04-18 22:55:40,100 - __main__ - INFO - Loading model from model.h5...
+2025-04-18 22:55:41,916 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-18 22:55:41,981 - __main__ - INFO - Model loaded successfully
+2025-04-18 22:55:41,981 - __main__ - INFO - Model input shape: (None, 224, 224, 3)
+2025-04-18 22:55:41,982 - __main__ - INFO - Model output shape: (None, 5)
+2025-04-18 22:55:41,990 - werkzeug - WARNING -  * Debugger is active!
+2025-04-18 22:55:41,994 - werkzeug - INFO -  * Debugger PIN: 105-602-999
+2025-04-18 22:55:42,193 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2025 22:55:42] "GET / HTTP/1.1" 200 -
+2025-04-18 22:55:50,513 - __main__ - INFO - Received POST request
+2025-04-18 22:55:50,514 - __main__ - INFO - Saving file to static/uploads\download.jpg
+2025-04-18 22:55:50,515 - __main__ - INFO - Processing image...
+2025-04-18 22:55:50,541 - __main__ - INFO - Original image shape: (183, 195, 3)
+2025-04-18 22:55:50,555 - __main__ - INFO - Final input shape: (1, 224, 224, 3)
+2025-04-18 22:55:50,556 - __main__ - INFO - Making prediction...
+2025-04-18 22:55:53,592 - __main__ - INFO - Raw predictions shape: (1, 5)
+2025-04-18 22:55:53,592 - __main__ - INFO - Raw prediction values: [[9.9998963e-01 4.4496502e-08 8.6023520e-06 5.8221022e-10 1.7593529e-06]]
+2025-04-18 22:55:53,594 - __main__ - INFO - Class daisy: 1.0001
+2025-04-18 22:55:53,594 - __main__ - INFO - Class dandelion: -0.0000
+2025-04-18 22:55:53,595 - __main__ - INFO - Class roses: 0.0000
+2025-04-18 22:55:53,595 - __main__ - INFO - Class sunflowers: -0.0001
+2025-04-18 22:55:53,595 - __main__ - INFO - Class tulips: -0.0000
+2025-04-18 22:55:53,597 - __main__ - INFO - Final top predictions: [{'class': 'daisy', 'confidence': 1.00014584640472}, {'class': 'roses', 'confidence': 2.4636338143827377e-07}, {'class': 'dandelion', 'confidence': -8.887046479504973e-06}]
+2025-04-18 22:55:53,597 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2025 22:55:53] "POST / HTTP/1.1" 200 -
