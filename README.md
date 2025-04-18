@@ -1,5 +1,4 @@
 # Flower-Recognition
-عندك حق، أنا نسيت أضيف اللينكات بصيغة `raw` زي ما اتفقنا قبل كده، وهنسقلك الريدمي كله دلوقتي في نص واحد بدون أي وندو:
 
 ---
 
@@ -103,5 +102,3 @@ For any questions, suggestions, or collaborations:
 **GitHub**: https://github.com/AbdelruhmanAshraf 
 
 ---
-
-لو تحب أضيف لينك الـ Colab، أو رابط تشغيل مباشر على Hugging Face أو Streamlit أو أي بلاتفورم تانية، ابعتلي اللينك وأنا أعدّل الريدمي عليه فورًا.
